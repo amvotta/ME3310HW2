@@ -112,5 +112,5 @@ end
 
 end
 
-FourBarCalcB(6,7,5,55,[0;0],[3;0])
+
 
